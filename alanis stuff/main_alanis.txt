@@ -1,0 +1,5 @@
+Which countries have the highest levels of food loss and what type of food is most commonly wasted?
+How does food loss and waste vary across different stages of the value chain in different countries and at which stages of the food value chain contribute the most to food loss and waste?
+How have levels of food loss and waste changed over time in different regions? Are there regional patterns or trends in food loss and waste?
+What is the overall percentage of food loss from production to household and how does that vary by country?
+Bonus: compare food waste among countries with similar GDP
