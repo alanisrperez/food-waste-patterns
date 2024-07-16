@@ -1,0 +1,14 @@
+Comparison,p-value,p-value (corrected),Reject Null Hypothesis
+Export vs Farm,2.9007659622257707e-17,3.7709957508935016e-16,True
+Export vs Storage,1.9667226437165625e-08,2.556739436831531e-07,True
+Export vs Harvest,3.854671797336171e-56,5.011073336537022e-55,True
+Export vs Transportation,4.603124077212242e-102,5.984061300375915e-101,True
+Export vs Post-harvest,0.46533220126902064,1.0,False
+Export vs Processing,0.0009773509792734224,0.012705562730554492,True
+Export vs Wholesale,0.2565386125879751,1.0,False
+Export vs Retail,0.4868890188553582,1.0,False
+Export vs Whole supply chain,0.17726066696778148,1.0,False
+Export vs Market,0.11116913328355434,1.0,False
+Export vs Trader,0.3020823461363607,1.0,False
+Export vs Distribution,0.11306370889633255,1.0,False
+Export vs Households,0.46055904594388497,1.0,False
