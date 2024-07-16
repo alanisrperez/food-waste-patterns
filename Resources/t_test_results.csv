@@ -1,14 +1,40 @@
 Comparison,p-value,p-value (corrected),Reject Null Hypothesis
-Export vs Farm,2.9007659622257707e-17,3.7709957508935016e-16,True
-Export vs Storage,1.9667226437165625e-08,2.556739436831531e-07,True
-Export vs Harvest,3.854671797336171e-56,5.011073336537022e-55,True
-Export vs Transportation,4.603124077212242e-102,5.984061300375915e-101,True
-Export vs Post-harvest,0.46533220126902064,1.0,False
-Export vs Processing,0.0009773509792734224,0.012705562730554492,True
-Export vs Wholesale,0.2565386125879751,1.0,False
-Export vs Retail,0.4868890188553582,1.0,False
-Export vs Whole supply chain,0.17726066696778148,1.0,False
-Export vs Market,0.11116913328355434,1.0,False
-Export vs Trader,0.3020823461363607,1.0,False
-Export vs Distribution,0.11306370889633255,1.0,False
-Export vs Households,0.46055904594388497,1.0,False
+Export vs Farm,2.90E-17,3.77E-16,TRUE
+Export vs Storage,1.97E-08,2.56E-07,TRUE
+Export vs Harvest,3.85E-56,5.01E-55,TRUE
+Export vs Transportation,4.60E-102,5.98E-101,TRUE
+Export vs Post-harvest,0.465332201,1,FALSE
+Export vs Processing,0.000977351,0.012705563,TRUE
+Export vs Wholesale,0.256538613,1,FALSE
+Export vs Retail,0.486889019,1,FALSE
+Export vs Whole supply chain,0.177260667,1,FALSE
+Export vs Market,0.111169133,1,FALSE
+Export vs Trader,0.302082346,1,FALSE
+Export vs Distribution,0.113063709,1,FALSE
+Export vs Households,0.460559046,1,FALSE
+Retail vs Farm,9.50E-146,1.24E-144,TRUE
+Retail vs Storage,1.60E-81,2.08E-80,TRUE
+Retail vs Harvest,3.33E-244,4.33E-243,TRUE
+Retail vs Transportation,0,0,TRUE
+Retail vs Post-harvest,0.818924443,1,FALSE
+Retail vs Export,0.486889019,1,FALSE
+Retail vs Processing,6.16E-09,8.01E-08,TRUE
+Retail vs Wholesale,0.116834516,1,FALSE
+Retail vs Whole supply chain,0.033396906,0.434159783,FALSE
+Retail vs Market,0.010080977,0.131052696,FALSE
+Retail vs Trader,0.048293689,0.627817963,FALSE
+Retail vs Distribution,0.003520117,0.045761523,TRUE
+Retail vs Households,0.107656614,1,FALSE
+Post-harvest vs Farm,5.39E-56,7.01E-55,TRUE
+Post-harvest vs Storage,7.50E-28,9.75E-27,TRUE
+Post-harvest vs Harvest,1.39E-159,1.81E-158,TRUE
+Post-harvest vs Transportation,1.26E-301,1.64E-300,TRUE
+Post-harvest vs Export,0.465332201,1,FALSE
+Post-harvest vs Processing,1.08E-06,1.41E-05,TRUE
+Post-harvest vs Wholesale,0.360567411,1,FALSE
+Post-harvest vs Retail,0.818924443,1,FALSE
+Post-harvest vs Whole supply chain,0.169206084,1,FALSE
+Post-harvest vs Market,0.01178353,0.153185884,FALSE
+Post-harvest vs Trader,0.139391626,1,FALSE
+Post-harvest vs Distribution,0.003849788,0.050047246,FALSE
+Post-harvest vs Households,0.102449702,1,FALSE
